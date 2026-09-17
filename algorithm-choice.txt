@@ -1,0 +1,1 @@
+I would choose UCB1 because rewards are continuous, bounded, and can be scaled to the [0, 1] interval, while Epsilon-Greedy would avoid high-potential arms due to frequent 0-value rewards, and Thompson Sampling relies on binary rewards.
